@@ -5,8 +5,5 @@ public class Main {
         Pisica pisica = new Pisica();
         pisica.mananca();
     }
-    interface somn{
-        public void somn();
-    }
 
 }
